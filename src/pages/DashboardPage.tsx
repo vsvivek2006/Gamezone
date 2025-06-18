@@ -268,7 +268,7 @@ const DashboardPage = () => {
                     <label className="block text-sm font-medium text-gray-300 mb-2">Full Name</label>
                     <input
                       type="text"
-                      value="Rahul Kumar"
+                      value="vivek Kumar"
                       className="w-full px-4 py-3 bg-dark-700 border border-dark-600 rounded-lg text-white"
                     />
                   </div>
@@ -276,7 +276,7 @@ const DashboardPage = () => {
                     <label className="block text-sm font-medium text-gray-300 mb-2">Email</label>
                     <input
                       type="email"
-                      value="rahul@example.com"
+                      value="vivek@example.com"
                       className="w-full px-4 py-3 bg-dark-700 border border-dark-600 rounded-lg text-white"
                     />
                   </div>
@@ -284,7 +284,7 @@ const DashboardPage = () => {
                     <label className="block text-sm font-medium text-gray-300 mb-2">Mobile</label>
                     <input
                       type="tel"
-                      value="+91 98765-43210"
+                      value="+91 9341436937"
                       className="w-full px-4 py-3 bg-dark-700 border border-dark-600 rounded-lg text-white"
                     />
                   </div>
