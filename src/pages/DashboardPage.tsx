@@ -20,7 +20,7 @@ const DashboardPage = () => {
           <div className="flex flex-col md:flex-row md:items-center md:justify-between">
             <div>
               <h1 className="text-3xl md:text-4xl font-bold text-white mb-2">
-                Welcome back, <span className="text-primary-500">Rahul!</span>
+                Welcome back, <span className="text-primary-500">Vivek!</span>
               </h1>
               <p className="text-gray-400">Ready to continue your winning streak?</p>
             </div>
